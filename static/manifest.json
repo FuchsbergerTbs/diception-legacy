@@ -1,0 +1,16 @@
+{
+    "name": "Diception",
+    "short_name": "Diception",
+    "background_color": "#232322",
+    "description": "Be part of your own adventure.",
+    "display": "fullscreen",
+    "start_url": "/overview",
+    "theme_color": "#232322",
+    "icons": [
+      {
+        "src": "/static/icon-336.png",
+        "type": "image/png",
+        "sizes": "336x336"
+      }
+    ]
+  }
