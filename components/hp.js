@@ -3,7 +3,7 @@
 import { useState, useContext } from "react";
 
 import Card from "./card";
-import { motion, useMotionValue, useTransform } from "framer-motion";
+import { motion } from "framer-motion";
 import { ThemeContext } from "styled-components";
 
 const HP = () => {
